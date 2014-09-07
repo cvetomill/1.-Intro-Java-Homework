@@ -1,0 +1,6 @@
+1. I change systm patch on my system
+2. press Shift+right button on "src" folder->Open Comand window here
+3. write: javac SumTwoNumbers.java
+4. write: java SumTwoNumbers
+
+To run .class file, just choose "bin" folder and write: java SumTwoNumbers
